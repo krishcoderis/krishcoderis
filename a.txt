@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+      <title>Using Image in Webpage</title>
+   </head>
+	
+   <body>
+      <p>Simple Image Insert</p>
+      <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fred-apple-with-leaf-gm683494078-125451195&psig=AOvVaw2zG27ZoAXbTRDvj1y-_qHI&ust=1642598966715000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLD6-sCzu_UCFQAAAAAdAAAAABAO" >
+   </body>
+	
+</html>
